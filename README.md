@@ -8,6 +8,7 @@
  ## install 
  Pull this repository and run `git submodule update --init --recursive` to pull submodules
 
+## running
 
 To run this project, set correct .env file, and run this command `docker-compose --env-file up --build`
 
